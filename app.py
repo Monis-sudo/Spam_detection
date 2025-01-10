@@ -3,7 +3,7 @@ import pickle
 import string
 import numoy
 import pandas
-import nltk==3.5
+import nltk
 nltk.data.clear_cache()
 import nltk
 nltk.download('punkt')
