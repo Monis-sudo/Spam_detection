@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import string
-import numoy
+import numpy
 import pandas
 import nltk
 nltk.data.clear_cache()
