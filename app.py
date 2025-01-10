@@ -1,7 +1,9 @@
 import streamlit as st
 import pickle
 import string
-import nltk
+import numoy
+import pandas
+import nltk==3.5
 nltk.data.clear_cache()
 import nltk
 nltk.download('punkt')
