@@ -4,7 +4,7 @@ import string
 import numpy
 import pandas
 
-import nltk
+ # import nltk
 nltk.download('punkt')
 
 
