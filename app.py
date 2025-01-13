@@ -3,8 +3,7 @@ import pickle
 import string
 import numpy
 import pandas
-
- # import nltk
+import nltk as nltk
 nltk.download('punkt')
 
 
